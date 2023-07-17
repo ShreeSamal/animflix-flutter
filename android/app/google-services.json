@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711058705818",
+    "project_id": "animpix",
+    "storage_bucket": "animpix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711058705818:android:3270883aff0e9e41f27e23",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711058705818-vo38s9drgn491hpjkqr6nvrpb86kl47c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVckA8kehmSoD_U74mDj6IUwFFZndpxqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711058705818-vo38s9drgn491hpjkqr6nvrpb86kl47c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
